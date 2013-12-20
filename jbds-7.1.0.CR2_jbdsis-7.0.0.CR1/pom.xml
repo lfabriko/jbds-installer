@@ -37,7 +37,7 @@
 		  <configuration>
 		    <jbds.installer>${jbds-710cr2.installer}</jbds.installer>
 		    <features combine.children="append">
-		      <param>org.eclipse.bpmn2.modeler.feature.feature.group</param>
+		      <!--<param>org.eclipse.bpmn2.modeler.feature.feature.group</param>
 		      <param>org.eclipse.bpmn2.modeler.jboss.runtime.feature.feature.group</param>
 		      <param>org.eclipse.bpmn2.feature.feature.group</param>
 		      <param>org.jboss.tools.bpel.feature.feature.group</param>
@@ -58,7 +58,7 @@
 		      <param>org.jboss.tools.modeshape.rest.feature.feature.group</param>
 		      <param>org.switchyard.tools.feature.feature.group</param>
 		      <param>org.switchyard.tools.bpel.feature.feature.group</param>
-		      <param>org.switchyard.tools.bpmn2.feature.feature.group</param>
+		      <param>org.switchyard.tools.bpmn2.feature.feature.group</param>-->
 		      <param>org.teiid.datatools.connectivity.feature.feature.group</param>
 		      <param>org.teiid.designer.feature.feature.group</param>
 		      <param>org.teiid.designer.runtime.feature.feature.group</param>
