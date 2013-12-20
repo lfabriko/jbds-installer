@@ -53,10 +53,10 @@
 		      <param>org.jboss.tools.runtime.jbpm.detector.feature.feature.group</param>
 		      <param>org.jboss.tools.jbpm.common.feature.feature.group</param>
 		      <param>org.jboss.tools.jbpm3.feature.feature.group</param>
-		      <param>org.jboss.tools.jbpm.convert.feature.feature.group</param>
+		      <param>org.jboss.tools.jbpm.convert.feature.feature.group</param>-->
 		      <param>org.jboss.tools.modeshape.jcr.feature.feature.group</param>
 		      <param>org.jboss.tools.modeshape.rest.feature.feature.group</param>
-		      <param>org.switchyard.tools.feature.feature.group</param>
+		      <!--<param>org.switchyard.tools.feature.feature.group</param>
 		      <param>org.switchyard.tools.bpel.feature.feature.group</param>
 		      <param>org.switchyard.tools.bpmn2.feature.feature.group</param>-->
 		      <param>org.teiid.datatools.connectivity.feature.feature.group</param>
